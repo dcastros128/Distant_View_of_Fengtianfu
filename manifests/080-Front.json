@@ -4,7 +4,7 @@
   "type" : "Manifest",
   "behavior" : [ "continuous" ],
   "label" : {
-    "en" : [ "080-Front " ]
+    "en" : [ "written " ]
   },
   "items" : [ {
     "id" : "https://example.org/2v64kptmaoi-mray1552/canvas/obtf7imfxxk-mray415p",
