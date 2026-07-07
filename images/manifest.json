@@ -7,5 +7,87 @@
             "All images loaded in dcastros128/Distant_View_of_Fengtianfu project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/001r/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "001r"
+                ]
+            },
+            "height": 9054,
+            "width": 6234,
+            "items": [
+                {
+                    "id": "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/001r/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/001r/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/001r/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 195,
+                                                "height": 283
+                                            },
+                                            {
+                                                "width": 390,
+                                                "height": 566
+                                            },
+                                            {
+                                                "width": 780,
+                                                "height": 1132
+                                            },
+                                            {
+                                                "width": 1559,
+                                                "height": 2264
+                                            },
+                                            {
+                                                "width": 3117,
+                                                "height": 4527
+                                            },
+                                            {
+                                                "width": 6234,
+                                                "height": 9054
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 6234,
+                                        "id": "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/001r",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 9054
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/001r/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
