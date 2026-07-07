@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 195,
+    "height" : 285
+  }, {
+    "width" : 390,
+    "height" : 570
+  }, {
+    "width" : 779,
+    "height" : 1139
+  }, {
+    "width" : 1558,
+    "height" : 2277
+  }, {
+    "width" : 3116,
+    "height" : 4554
+  }, {
+    "width" : 6232,
+    "height" : 9107
+  } ],
+  "profile" : "level0",
+  "width" : 6232,
+  "id" : "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/003v",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 9107
+}
